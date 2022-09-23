@@ -1,1 +1,2 @@
 This is file file4.txt created in newfuture branch
+New Line
